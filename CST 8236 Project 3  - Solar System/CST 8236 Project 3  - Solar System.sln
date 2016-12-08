@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CST 8236 Project 3  - Solar System.CSharp", "CST 8236 Project 3  - Solar System.CSharp.csproj", "{99D44594-4EC0-4A45-F9CF-39015460E8CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D44594-4EC0-4A45-F9CF-39015460E8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D44594-4EC0-4A45-F9CF-39015460E8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D44594-4EC0-4A45-F9CF-39015460E8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D44594-4EC0-4A45-F9CF-39015460E8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
